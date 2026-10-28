@@ -1,6 +1,10 @@
 # LATTICEPointENTROPY
 a cyber/solar fusion ttrpg where based on the choices of a hypothetical main character arc, the ingame universe relies on an altered set of rules on a spectrum. For the sake of argument, this is a singular variable for a dm to choose established lore.
 
+This is a creative commons lore based engine for building a data point driven set of lore bible entries on the mechanics of the ttrpg based on the value of a single variable.
+
+
+
 # LATTICEPointENTROPY — Open-Source Universe & System Guide
 
 > **Architecture:** Slider-Driven Dynamic Worldbuilding (Solarpunk ↔ Cyberpunk)  
