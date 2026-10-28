@@ -55,6 +55,8 @@ the dm has a choice to incorporate but correction shifts the components universa
     ├── /locations/                <-- Sector files with tri-state slider variants
     └── /artifacts/                <-- Correction Stacks, Kinetic Gear, Tech
 ```
+
+---
 4. Game Master (GM) Operating Rules
  * Dynamic Sector Rendering: Run python engine/lore_transformer.py --slider <0.0-1.0> prior to running a session to pull appropriate environmental descriptions, active hazards, and enemy behaviors.
  * No Death Survival: Player character defeat never triggers a traditional "Game Over." Instead, the AI Director executes a local Data Correction, warping geography, erasing memories, and shifting the sector's slider closer to total Machine Order.
