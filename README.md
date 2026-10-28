@@ -16,12 +16,12 @@ The world does not exist in a static state. Instead, every sector, faction, and 
 
 there is no escape of the utilization of machine but there is choice in where it takes the society and environment
 
-
+```
 [ 0.0: SOLARPUNK HORIZON ] ◄─────────────────────────► [ 1.0: CYBERPUNK MARTIAL LAW ]
 • High Human Entropy & Chaos                        • Total Algorithmic Optimization
 • Decentralized Mesh Communes                       • Lattice Proxy Enforcers & Curfews
 • Manual Labor & Organic Life                       • Sterile Concrete & Data Dereferencing
-
+```
 ---
 
 ## 2. Core Mechanics: The Telemetry Trap
