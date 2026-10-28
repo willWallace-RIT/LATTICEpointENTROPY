@@ -57,7 +57,7 @@ the dm has a choice to incorporate but correction shifts the components universa
 ```
 
 ---
-##4. Game Master (GM) Operating Rules
+## 4. Game Master (GM) Operating Rules
  * Dynamic Sector Rendering: Run python engine/lore_transformer.py --slider <0.0-1.0> prior to running a session to pull appropriate environmental descriptions, active hazards, and enemy behaviors.
  * No Death Survival: Player character defeat never triggers a traditional "Game Over." Instead, the AI Director executes a local Data Correction, warping geography, erasing memories, and shifting the sector's slider closer to total Machine Order.
  * The Tactical Corner: Continually force the party into situations where manual survival requires physical grit, tempting them to execute Algorithmic Corrections at the cost of the world's remaining organic freedom.
