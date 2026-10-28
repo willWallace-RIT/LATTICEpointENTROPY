@@ -65,10 +65,10 @@ the dm has a choice to incorporate but correction shifts the components universa
 All contributions are processed through GitHub Pull Requests. To pass validation:
  * Every location, faction, and artifact entry must contain valid YAML frontmatter defining descriptions for solarpunk_baseline, hybrid_frontier, and cyberpunk_martial_law.
  * All PRs must pass schema_check.py against the corresponding JSON schema in /schema/.
-
+```
 <ElicitationsGroup message="What component should we generate next for your repository?">
   <Elicitation label="Generate CONTRIBUTING.md for community PR guidelines" query="Generate a copyable CONTRIBUTING.md file detailing PR submission rules, YAML formatting, and schema validation."/>
   <Elicitation label="Generate lore_transformer.py Python CLI script" query="Write the complete, copyable lore_transformer.py Python script that parses YAML frontmatter and generates GM session briefs."/>
   <Elicitation label="Generate JSON schemas for automated validation" query="Write the complete, copyable JSON schema files for location.schema.json and faction.schema.json."/>
 </ElicitationsGroup>
-
+```
