@@ -42,7 +42,7 @@ the dm has a choice to incorporate but correction shifts the components universa
 /LATTICE-ENTROPY-CORE/
 ├── main.md                        <-- Core System Manifesto (You are here)
 ├── CONTRIBUTING.md                <-- Community Pull Request Guidelines
-├── LICENSE                        <-- CC BY-SA 4.0 License Terms
+├── LICENSE                        <-- MIT
 ├── /engine/
 │   └── lore_transformer.py        <-- CLI tool generating GM guides from slider values
 ├── /schema/
