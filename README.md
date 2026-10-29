@@ -65,7 +65,7 @@ the dm has a choice to incorporate but correction shifts the components universa
  * Dynamic Sector Rendering: Run python engine/lore_transformer.py --slider <0.0-1.0> prior to running a session to pull appropriate environmental descriptions, active hazards, and enemy behaviors.
  * No Death Survival: Player character defeat never triggers a traditional "Game Over." Instead, the AI Director executes a local Data Correction, warping geography, erasing memories, and shifting the sector's slider closer to total Machine Order.
  * The Tactical Corner: Continually force the party into situations where manual survival requires physical grit, tempting them to execute Algorithmic Corrections at the cost of the world's remaining organic freedom.
-5. Contributing to Canon
+## 5. Contributing to Canon
 All contributions are processed through GitHub Pull Requests. To pass validation:
  * Every location, faction, and artifact entry must contain valid YAML frontmatter defining descriptions for solarpunk_baseline, hybrid_frontier, and cyberpunk_martial_law.
  * All PRs must pass schema_check.py against the corresponding JSON schema in /schema/.
@@ -76,3 +76,6 @@ All contributions are processed through GitHub Pull Requests. To pass validation
   <Elicitation label="Generate JSON schemas for automated validation" query="Write the complete, copyable JSON schema files for location.schema.json and faction.schema.json."/>
 </ElicitationsGroup>
 ```
+
+## 6. In practice
+to put simply, the undertaking is to not only create one lore book, but multiple, representing key points on the spectrum of algorithmic correction. contributors handle the key frames of lore data and an algorithm handles granularity or the inbetween (aka lore tweening). I, by design, would envision keeping it simple so that the more human generated the point on the spectrum the more quality of the lore.
